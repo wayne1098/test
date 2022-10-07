@@ -138,3 +138,6 @@ function kabisat(tahun) {
 }
 console.log(kabisat(2021));
 console.log(kabisat(2024));
+
+
+// node test.js
