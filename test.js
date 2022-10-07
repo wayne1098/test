@@ -71,11 +71,11 @@ function hasil5(n) {
 		return 'Silahkan masukkan angka 1 - 100';
 	}
 }
-
 console.log(hasil5(4));
 console.log(hasil5(20));
 console.log(hasil5(39));
 console.log(hasil5(104));
+
 
 //6
 console.log('-------soal 6');
@@ -89,10 +89,11 @@ for (let index = 0; index < array6.length; index++) {
     }
 }
 console.log(hasil6);
+
+
 //7
 console.log('-------soal 7');
 console.log(hasil6.length);
-
 
 
 //8
